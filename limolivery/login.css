@@ -1,0 +1,196 @@
+.pagina1 {
+
+
+    background-image: url(img/pexels-photo-2363347.jpg);
+    
+    scroll-behavior: smooth;
+    
+    }
+    
+    
+    .cabeçalho {
+    display: flex;
+    align-items: center ;
+    
+    
+    @font-face {
+        font-family: myFirstFont;
+        src: url(JockeyOne-Regular.ttf);
+        
+      }
+      
+    }
+    
+    
+        .logo {
+          
+            color: rgb(199, 239, 208);
+            border: 1px solid rgb(44, 130, 43);
+            background-color: rgba(82, 188, 50, 0.5);
+            backdrop-filter: blur(5px);
+            position: relative;
+            border-radius: 20px;
+            font-size: 150%;
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+           width: 125px;
+           text-align: center;
+           margin-right: 200px;
+           height: 40px;
+           align-content: center;
+           box-shadow: 0 10px 35px 0 #362100;
+        
+    
+        }       
+    
+    
+    .slogan {
+        color: rgb(199, 239, 208);
+       width: 400px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 119%;
+        height: 40px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    }
+    .slogan2 {
+        color: rgb(199, 239, 208);
+        width: 400px;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 119%;
+         height: 40px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     
+    
+    
+    }
+ 
+    .catalogo {
+        
+    background-color:  rgb(82, 188, 50, 0.5);
+    margin-top: 100px;
+    height: 420px;
+    border: 1px solid rgb(68, 68, 68) ;
+    box-shadow: 0 10px 35px 0 #362100;
+    backdrop-filter: blur(5px);
+    position: relative;
+    border-radius: 50px;
+   
+    }
+    
+    
+    
+    .comprar{
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+       width: 180px;
+       text-align: center;
+        background-color: rgba(50, 81, 50, 0.5);
+        border-radius: 20px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 270%;
+        height: 70px;
+        align-content: center;
+
+        align-items: center;
+   
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .limao{
+   
+    width: 170px;
+    align-content: center;
+   padding-left: 100px;
+    text-align: center;
+    
+    
+    }
+    .aviso {    
+       
+        color: rgb(199, 239, 208);
+       
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 250%;
+        
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     
+
+
+
+
+    }
+    .e-mail {
+display: flex;
+margin-top: 40px;
+margin-left: 20px;
+align-content: center;
+align-items: center;
+
+
+    }
+    .campo {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+       width: 220px;
+       
+        background-color: rgba(50, 81, 50, 0.5);
+        border-radius: 20px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 135%;
+        height: 20px;
+        align-content: center;
+margin-left: 10px;
+        align-items: center;
+   
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+
+    }
+    .senha {
+
+        display: flex;
+        margin-left: 20px;
+        align-content: center;
+        align-items: center;
+        
+
+
+
+    }
+    .aviso2{
+
+        color: rgb(199, 239, 208);
+       
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 170%;
+        margin-left: 10px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     
+
+
+
+
+    }
+    .cadastrar {
+display: flex;
+
+
+    }
+    .link {
+        color: rgb(0, 189, 199);
+       
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 120%;
+       
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: center;
+        margin-left: 5px;
+        margin-top: 20px;
+
+
+
+    }

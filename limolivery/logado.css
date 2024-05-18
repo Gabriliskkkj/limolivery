@@ -1,0 +1,169 @@
+.pagina1 {
+
+
+    background-image: url(img/pexels-photo-2363347.jpg);
+    
+    scroll-behavior: smooth;
+    
+    }
+    
+    
+    .cabeçalho {
+    display: flex;
+    align-items: center ;
+    
+    
+    @font-face {
+        font-family: myFirstFont;
+        src: url(JockeyOne-Regular.ttf);
+        
+      }
+      
+    }
+    
+    
+        .logo {
+          
+            color: rgb(199, 239, 208);
+            border: 1px solid rgb(44, 130, 43);
+            background-color: rgba(82, 188, 50, 0.5);
+            backdrop-filter: blur(5px);
+            position: relative;
+            border-radius: 20px;
+            font-size: 150%;
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+           width: 125px;
+           text-align: center;
+           margin-right: 70px;
+           height: 40px;
+           align-content: center;
+           box-shadow: 0 10px 35px 0 #362100;
+        
+    
+        }       
+    .ze-ruela {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+       width: 100px;
+       text-align: center;
+        background-color: rgba(82, 188, 50, 0.5);
+        border-radius: 20px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 150%;
+        margin-left: 70px;
+        height: 40px;
+        align-content: center;
+        box-shadow: 0 10px 35px 0 #362100;
+        backdrop-filter: blur(5px);
+        position: relative;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    .slogan {
+        color: rgb(199, 239, 208);
+       width: 400px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 119%;
+        height: 40px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    }
+    .slogan2 {
+        color: rgb(199, 239, 208);
+        width: 400px;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 119%;
+         height: 40px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     
+    
+    
+    }
+    .limomg{
+    
+        height: 70px;
+    }
+    .catalogo {
+        
+    background-color:  rgb(82, 188, 50, 0.5);
+    height: 500px;
+    border: 1px solid rgb(68, 68, 68) ;
+    box-shadow: 0 10px 35px 0 #362100;
+    backdrop-filter: blur(5px);
+    position: relative;
+    border-radius: 50px;
+    }
+    .limo-name {
+        color: rgb(199, 239, 208);
+        width: 99px;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 160%;
+         margin-left: 40px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 55px;
+    
+    
+    }
+    
+    
+    .limo-name3 {
+        color: rgb(199, 239, 208);
+        width: 99px;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 160%;
+         margin-left: 40px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 55px;
+    
+    
+    }
+    .comprar{
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+       width: 120px;
+       text-align: center;
+        background-color: rgba(50, 81, 50, 0.5);
+        border-radius: 20px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 150%;
+        height: 40px;
+        align-content: center;
+        text-align: center;
+        margin-right: 20px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .limao{
+    display: flex;
+    width: 412px;
+    align-items: center;
+    padding-top: 20px;
+    
+    }
+    .rodape {
+        background-color:  rgb(82, 188, 50, 0.5);
+        height: 190px;
+        border: 1px solid rgb(68, 68, 68) ;
+        box-shadow: 0 10px 35px 0 #362100;
+        backdrop-filter: blur(5px);
+        position: relative;
+        border-radius: 50px;
+        margin-top: 30px;
+    
+    
+    }
+    .rodape-stile {
+    
+        color: rgb(199, 239, 208);
+      
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 160%;
+         margin-left: 40px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 55px;
+    text-align: center;
+    
+    
+    
+    }

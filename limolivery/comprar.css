@@ -1,0 +1,390 @@
+.pagina1 {
+
+
+    background-image: url(img/pexels-photo-2363347.jpg);
+    
+    scroll-behavior: smooth;
+    
+    }
+    
+    
+    .cabeçalho {
+    display: flex;
+    align-items: center ;
+    
+    
+    @font-face {
+        font-family: myFirstFont;
+        src: url(JockeyOne-Regular.ttf);
+        
+      }
+      
+    }
+    
+    
+        .logo {
+          
+            color: rgb(199, 239, 208);
+            border: 1px solid rgb(44, 130, 43);
+            background-color: rgba(82, 188, 50, 0.5);
+            backdrop-filter: blur(5px);
+            position: relative;
+            border-radius: 20px;
+            font-size: 150%;
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+           width: 125px;
+           text-align: center;
+           margin-right: 70px;
+           height: 40px;
+           align-content: center;
+           box-shadow: 0 10px 35px 0 #362100;
+        
+    
+        }       
+    .ze-ruela {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+       width: 100px;
+       text-align: center;
+        background-color: rgba(82, 188, 50, 0.5);
+        border-radius: 20px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 150%;
+        margin-left: 70px;
+        height: 40px;
+        align-content: center;
+        box-shadow: 0 10px 35px 0 #362100;
+        backdrop-filter: blur(5px);
+        position: relative;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    .slogan {
+        color: rgb(199, 239, 208);
+       width: 400px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 119%;
+        height: 40px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    }
+    .slogan2 {
+        color: rgb(199, 239, 208);
+        width: 400px;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 119%;
+         height: 40px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     
+    
+    
+    }
+    .limomg{
+    
+        height: 70px;
+    }
+    .catalogo {
+        
+    background-color:  rgb(82, 188, 50, 0.5);
+    height: 800px;
+    border: 1px solid rgb(68, 68, 68) ;
+    box-shadow: 0 10px 35px 0 #362100;
+    backdrop-filter: blur(5px);
+    position: relative;
+    border-radius: 50px;
+    }
+    .limo-name {
+        color: rgb(199, 239, 208);
+        width: 99px;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 160%;
+         margin-left: 40px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 55px;
+    
+    
+    }
+    
+    
+    .limo-name3 {
+        color: rgb(199, 239, 208);
+        width: 99px;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 160%;
+         margin-left: 40px;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 55px;
+    
+    
+    }
+    .comprar{
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+       width: 120px;
+       text-align: center;
+        background-color: rgba(50, 81, 50, 0.5);
+        border-radius: 20px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 150%;
+        height: 40px;
+        align-content: center;
+        text-align: center;
+        margin-right: 20px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .limao{
+    display: flex;
+    width: 412px;
+    align-items: center;
+  height: 50px;
+    padding-top: 30px;
+    padding-left: 10px;
+    }
+
+    .limao2 {
+
+        display: flex;
+        width: 412px;
+        align-items: center;
+      height: 50px;
+        padding-top: 10px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+    }
+
+    .quantidade {
+        color: rgb(199, 239, 208);
+        width: 136px;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 190%;
+         height: auto;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+
+    }
+    .campo {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+       width: 270px;
+       margin-left: 20px;
+        background-color: rgba(50, 81, 50, 0.5);
+        border-radius: 20px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 135%;
+        height: 20px;
+        align-content: center;
+
+        align-items: center;
+   
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    .valor-total {
+        color: rgb(199, 239, 208);
+        display: flex;
+        width: auto;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 190%;
+         height: auto;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     margin-left: 15px;
+    
+
+    }
+    .campo2 {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+       width: 100px;
+       margin-left: 30px;
+        background-color: rgba(50, 81, 50, 0.5);
+        border-radius: 20px;
+        text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+        font-size: 135%;
+        height: 20px;
+        align-content: center;
+
+        align-items: center;
+   
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+    .endereço {
+        color: rgb(199, 239, 208);
+        width: 412;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 180%;
+         height: auto;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     
+
+    }
+    .limao3 {
+        
+        width: auto;
+        align-items: center;
+      height: 50px;
+        padding-left: 10px;
+       text-align: center;
+
+    }
+     .cidade{
+
+        color: rgb(199, 239, 208);
+        width: auto;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 190%;
+         height: auto;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     margin-left: 10px;
+     }
+    
+    
+.bairro {
+    color: rgb(199, 239, 208);
+    width: auto;
+     text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+     font-size: 190%;
+     height: auto;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ text-align: center;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+    .rua{
+        color: rgb(199, 239, 208);
+        width: auto;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 190%;
+         height: auto;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     margin-left: 10px;
+     margin-right: 40px;
+    }
+    .numero {
+        color: rgb(199, 239, 208);
+        width: auto;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 190%;
+         height: auto;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     margin-left: 10px;
+     margin-right: -10px;
+    }
+    .forma {
+        color: rgb(199, 239, 208);
+        width: 412;
+         text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+         font-size: 180%;
+         height: auto;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+
+    }
+    .debito {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+        background-color: rgba(82, 188, 50, 0.5);
+        backdrop-filter: blur(5px);
+        position: relative;
+        border-radius: 20px;
+        font-size: 150%;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+       width: 125px;
+       text-align: center;
+       height: 40px;
+       align-content: center;
+       box-shadow: 0 10px 35px 0 #362100;
+
+    }
+    .credito {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+        background-color: rgba(82, 188, 50, 0.5);
+        backdrop-filter: blur(5px);
+        position: relative;
+        border-radius: 20px;
+        font-size: 150%;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+       width: 125px;
+       text-align: center;
+       height: 40px;
+       align-content: center;
+       margin-left: 20px;
+       box-shadow: 0 10px 35px 0 #362100;
+
+    }
+    .pix{
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+        background-color: rgba(82, 188, 50, 0.5);
+        backdrop-filter: blur(5px);
+        position: relative;
+        border-radius: 20px;
+        font-size: 150%;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+       width: 125px;
+       text-align: center;
+       height: 40px;
+       align-content: center;
+       margin-left: 70px;
+       box-shadow: 0 10px 35px 0 #362100;
+
+
+    }
+    .pics {
+margin-left: 10px;
+
+
+    }
+    .money {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+        background-color: rgba(82, 188, 50, 0.5);
+        backdrop-filter: blur(5px);
+        position: relative;
+        border-radius: 20px;
+        font-size: 150%;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+       width: 190px;
+       text-align: center;
+       height: 40px;
+       align-content: center;
+       margin-left: 5px;
+       box-shadow: 0 10px 35px 0 #362100;
+
+    }
+
+    .compra {
+        color: rgb(199, 239, 208);
+        border: 1px solid rgb(44, 130, 43);
+        background-color: rgba(82, 188, 50, 0.5);
+        backdrop-filter: blur(5px);
+        position: relative;
+        border-radius: 20px;
+        font-size: 250%;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
+       width: 300px;
+       text-align: center;
+       height: 40px;
+       align-content: center;
+       margin-left: 40px;
+       margin-top: 40px;
+       box-shadow: 0 10px 35px 0 #362100;
+       text-align: center;
+       align-content: center;
+       align-items: center;
+
+
+
+    }
