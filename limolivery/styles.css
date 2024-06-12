@@ -106,7 +106,7 @@ position: relative;
 border-radius: 50px;
 }
 .limo-name {
-    color: rgb(199, 239, 208);
+    color: rgb(255, 255, 255);
     width: 99px;
      text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
      font-size: 160%;
@@ -130,18 +130,18 @@ margin-right: 55px;
 
 }
 .comprar{
-    color: rgb(199, 239, 208);
+    color: rgb(255, 255, 255);
     border: 1px solid rgb(44, 130, 43);
    width: 120px;
    text-align: center;
     background-color: rgba(50, 81, 50, 0.5);
     border-radius: 20px;
     text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
-    font-size: 150%;
+    font-size: 140%;
     height: 40px;
     align-content: center;
     text-align: center;
-    margin-right: 20px;
+    margin-right: 0px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .limao{
@@ -165,7 +165,7 @@ padding-top: 20px;
 }
 .rodape-stile {
 
-    color: rgb(199, 239, 208);
+    color: rgb(255, 255, 255);
   
      text-shadow: 0px 0 black, 0 2px rgb(0, 0, 0, 0.7), 1px 0 black, 0 0px black ;
      font-size: 160%;
